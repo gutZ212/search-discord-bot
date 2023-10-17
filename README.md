@@ -1,2 +1,2 @@
 # search-discord-bot
-This is a simple bot that uses an API to search and return the top Google link related to a search entered by the user.
+This is a Discord bot that makes use of a search API to look for and return the top link related to the topic entered by the user in a server chat.
